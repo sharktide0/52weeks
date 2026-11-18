@@ -1,0 +1,185 @@
+Week,Starts,Skill,Done when,Plan,Resources,Cost
+1,2026-11-15,Build a personal website,"A personal site on my own domain that showcases my resume, projects, and this challenge","Mon-Tue: HTML and CSS basics, pick a simple layout
+Wed: About page and resume
+Thu: Thanksgiving, light day
+Fri: 52 Week Challenge page with the full list and a log you update every Sunday
+Sat: deploy on GitHub Pages, connect a custom domain
+Sun: add it to LinkedIn Featured and post the challenge announcement",GitHub Pages; MDN Web Docs; Namecheap or Cloudflare for the domain,Domain ~$12/yr
+2,2026-11-30,Card magic,Perform 3 card tricks to strangers without getting caught,"Mon-Tue: learn the double lift and a key card force
+Wed-Thu: drill 3 tricks (Ambitious Card, a key card reveal, a self-working spelling trick)
+Fri-Sat: perform for friends on your floor
+Sun: perform for 3 strangers, film one",Chris Ramsay and 52Kards on YouTube; Royal Road to Card Magic (Hugard & Braue) for the double lift,Deck of Bicycle cards ~$5
+3,2026-12-07,Pi to 100 digits,Recite 100 digits of pi,"Finals week, 10 min a day
+Mon-Tue: chunk digits into groups of 5, learn 30
+Wed-Thu: get to 70
+Fri-Sun: 100, recite cold twice",Pi digits on any site; memory palace method for chunks,Free
+4,2026-12-14,Read a whole Gospel,Read Mark in one week and summarize each chapter in one line,"Mark has 16 chapters, about 2-3 a day
+Write a one-line summary per chapter
+Sun: read your 16 lines top to bottom",Bible (RSV-2CE or NABRE); Bishop Barron's Word on Fire commentary is optional,Free
+5,2026-12-21,Coin magic,Nail the French drop and a coin vanish,"Mon-Tue: French drop and classic palm
+Wed: coin vanish using the French drop
+Thu: coin through table or coin from behind the ear
+Fri (Christmas): perform for family
+Sat-Sun: chain into a short routine with your card tricks from week 2, film it",Chris Ramsay and Mike Hankins coin tutorials on YouTube; Modern Coin Magic (J.B. Bobo),Free (use quarters or half dollars)
+6,2026-12-28,Card shuffling,"Riffle, bridge, and a faro shuffle","Mon-Tue: clean riffle and bridge
+Wed-Fri: overhand control and table faro
+Sat-Sun: in-hand faro, film all 3",Chris Ramsay shuffle tutorials on YouTube,Deck ~$5
+7,2027-01-04,Chess,Hit 1000 Elo on chess.com,"Daily: 20 puzzles on chess.com, 3 rapid games (10 min)
+Mon-Tue: one opening as white (London) and one as black (Caro-Kann)
+Wed-Sun: review every loss and find the blunder",GothamChess beginner series; chess.com Lessons,Free
+8,2027-01-11,Python,"Write a script that pulls real data (stock prices, CoRec counts) and texts or emails it to me daily","Mon-Tue: variables, loops, functions
+Wed: requests library, pull data from an API
+Thu-Fri: write the script
+Sat-Sun: schedule it with GitHub Actions like your CoRec tracker",Automate the Boring Stuff with Python (free online),Free
+9,2027-01-18,Excel with no mouse,"Build a full budget model using only keyboard shortcuts, timed under 15 min","Mon-Tue: 30 core shortcuts (Ctrl+arrows, Alt ribbon keys, F4, Ctrl+Shift+L)
+Wed-Fri: rebuild a budget model daily, mouse unplugged
+Sat-Sun: time it under 15 min",Wall Street Prep's free Excel shortcut list; Excel via Purdue Office 365,Free
+10,2027-01-25,Psychology,Explain 15 cognitive biases with a real example from my own life,"Read 1 chapter a day of Thinking, Fast and Slow
+Each day log 2 biases you caught in yourself
+Sun: write up all 15 with your real examples","Thinking, Fast and Slow (Kahneman); Crash Course Psychology on YouTube",~$12 or Purdue library
+11,2027-02-01,Options trading,"10 paper trades on thinkorswim, each with a written thesis and a post-mortem","Mon: greeks and how IV moves price
+Tue-Fri: 2-3 paper trades a day (covered call, cash-secured put, vertical spread), write the thesis first
+Sat-Sun: post-mortem on all 10",thinkorswim paperMoney; The Options Playbook (free online),Free
+12,2027-02-08,Juggling,Juggle 3 balls for 60 seconds,"Mon-Tue: one ball, then two ball exchanges
+Wed-Thu: three ball cascade, count catches
+Fri-Sun: push to 60 seconds, film it",Henry's Juggling tutorials on YouTube,Juggling balls ~$10
+13,2027-02-15,Mental math,Multiply any two 2-digit numbers in my head in under 10 seconds,"Mon: multiply by 11 trick, squaring numbers ending in 5
+Tue-Wed: left-to-right multiplication
+Thu-Sun: 50 timed problems a day, track your average",Secrets of Mental Math (Arthur Benjamin),~$15
+14,2027-02-22,Electronics fundamentals,Build a 555 timer LED blinker on a breadboard and explain Ohm's law using it,"Mon: voltage, current, resistance, Ohm's law
+Tue: series vs parallel, measure with a multimeter
+Wed-Thu: LEDs, capacitors, transistors
+Fri-Sun: build the 555 blinker and explain it",Practical Electronics for Inventors; Ben Eater on YouTube,Breadboard kit + multimeter ~$30
+15,2027-03-01,Design a PCB,Design a simple board in KiCad and place the order with JLCPCB,"Mon-Tue: KiCad schematic for last week's 555 circuit
+Wed-Thu: layout and routing
+Fri: design rule check
+Sat-Sun: order from JLCPCB",KiCad (free); Phil's Lab KiCad tutorials on YouTube,~$10-25 with shipping
+16,2027-03-08,Body language,Read Pease's Definitive Book of Body Language and call out 10 cues in a real conversation,"Read 2 chapters a day
+Take one cue a day into class and conversations
+Sun: write up 10 cues you spotted",The Definitive Book of Body Language (Pease),~$15 or library
+17,2027-03-15,Write a book in a week,"20,000 word novella first draft (about 3,000 words a day)","Spring break
+Sat before: outline 15-20 scenes
+Mon-Sat: 3,000+ words a day, no editing
+Sun: finish and print it",Save the Cat! Writes a Novel for the outline; Google Docs,Free
+18,2027-03-22,Persuasion,Read Cialdini's Influence and use each principle once on purpose,"One principle a day: reciprocity, commitment, social proof, authority, liking, scarcity, unity
+Use it once that day on purpose and log what happened",Influence (Cialdini),~$15
+19,2027-03-29,Game theory,"Explain Nash equilibrium, prisoner's dilemma, and use one in a real decision","Mon-Wed: Yale ECON 159 lectures 1-6
+Thu: work prisoner's dilemma and Nash equilibrium problems
+Fri-Sun: apply it to one real decision","Yale Open Courses ECON 159 (Ben Polak), free on YouTube",Free
+20,2027-04-05,Taxes,Do a mock 1040 by hand for a dual-income couple with kids,"Mon: read the 1040 instructions
+Tue: wages, W-2s, filing status
+Wed: standard deduction vs itemizing
+Thu: child tax credit and dependent care credit
+Fri-Sun: full mock return by hand",IRS Form 1040 and instructions (irs.gov),Free
+21,2027-04-12,Social Security,Figure out the optimal claiming age for a sample couple,"Mon-Tue: PIA, bend points, full retirement age
+Wed: spousal and survivor benefits
+Thu-Fri: build a sample couple
+Sat-Sun: find their best claiming ages",ssa.gov; Open Social Security (opensocialsecurity.com),Free
+22,2027-04-19,Poker,"Learn preflop ranges and pot odds, win a home game or a micro-stakes session","Mon-Tue: preflop opening ranges by position
+Wed: pot odds and equity
+Thu-Fri: 500+ hands of play money
+Sat-Sun: home game or a micro-stakes session",GTO Wizard free tier; Upswing's free preflop charts,Free (buy-in optional)
+23,2027-04-26,SQL,Answer 10 real questions on a public dataset (SQLBolt done + 10 queries on a Kaggle set),"Mon-Tue: finish SQLBolt
+Wed: joins and GROUP BY
+Thu-Sun: write 10 questions about a Kaggle dataset and answer them",SQLBolt; Mode SQL tutorial; Kaggle datasets,Free
+24,2027-05-03,World geography,100% on the Seterra world countries quiz,"Finals week, 15 min a day
+One continent a day on Seterra
+Sun: full world quiz to 100%",Seterra (free),Free
+25,2027-05-10,Run a 5K,Run a 5K without stopping,"Mon, Wed, Fri: run-walk intervals, push the run segments longer
+Tue, Thu: easy 20 min
+Sun: 5K, no walking",Nike Run Club guided runs,Free
+26,2027-05-17,Pen spinning,Do a thumbaround and a sonic smoothly,"Mon-Tue: thumbaround, 10 min a day
+Wed-Thu: charge and fingerpass
+Fri-Sun: sonic, then chain thumbaround into sonic",penspinning.com tutorials; any pen with a cap works,Free
+27,2027-05-24,Backflip,Land one on a trampoline (then on grass if I'm brave),"Mon-Wed: back rolls, back handspring drills at a trampoline park
+Thu-Fri: spotted backflips on trampoline
+Sat-Sun: land it clean",Local trampoline park; tutorials on YouTube,~$20-30 per visit
+28,2027-05-31,Interior design,"Redesign a real room with a mood board, floor plan, and before/after","Mon: measure the room, draw the floor plan
+Tue: traffic flow and furniture layout
+Wed: lighting layers and color
+Thu-Fri: mood board
+Sat-Sun: before/after",Floorplanner (free); Canva for the mood board,Free
+29,2027-06-07,Plumbing basics,Replace a faucet cartridge or fix a running toilet,"Mon-Tue: how supply lines, traps, and venting work
+Wed: diagnose a running toilet
+Thu-Fri: replace a flapper or a faucet cartridge
+Sat-Sun: fix one more real thing at home",This Old House on YouTube; Black & Decker Complete Guide to Plumbing,Parts ~$15-30
+30,2027-06-14,Build a house (construction basics),"Draw a framing plan for a 12x16 shed and walk someone through foundation, framing, roof, systems","Mon: foundations
+Tue: framing (studs, headers, joists)
+Wed: roof
+Thu: electrical, plumbing, HVAC rough-in
+Fri-Sat: draw the 12x16 shed framing plan
+Sun: walk someone through it",Essential Craftsman on YouTube; Building Construction Illustrated (Ching),Free with library
+31,2027-06-21,Free throws,Hit 8/10,"100 free throws a day
+Film form on Mon and Thu, fix elbow and follow-through
+Sun: 8/10 test",Any outdoor court,Free
+32,2027-06-28,Small talk,Start conversations with 10 strangers,"Start 10 conversations with strangers over the week (summer job, gym, coffee shop)
+Log what opener worked",How to Talk to Anyone (Leil Lowndes),~$12
+33,2027-07-05,Negotiation,"Negotiate a real bill or price down (phone, subscription, rent)","Mon-Tue: read Never Split the Difference
+Wed: pick a bill (phone, internet, insurance)
+Thu-Fri: call and negotiate
+Sat-Sun: try one more in person",Never Split the Difference (Chris Voss),~$15
+34,2027-07-12,Sales,Sell 10 of something to strangers,"Mon: pick something to sell (flip items from Marketplace or garage sales)
+Tue-Sat: pitch and sell 10
+Sun: what worked and what didn't",Facebook Marketplace,Inventory ~$20-50
+35,2027-07-19,Drawing faces,Draw a portrait a friend recognizes,"Mon-Tue: Loomis head construction
+Wed-Thu: eyes, nose, mouth
+Fri-Sat: draw from photos
+Sun: draw a friend",Proko on YouTube; Drawing on the Right Side of the Brain,Sketchbook and pencils ~$15
+36,2027-07-26,Figma UI design,Design 5 screens for an app idea,"Mon: frames, auto layout, components
+Tue: pick an app idea
+Wed-Sat: one screen a day
+Sun: clickable prototype",Figma (free); Figma's YouTube tutorials,Free
+37,2027-08-02,Cybersecurity basics,Finish the TryHackMe Pre-Security path,"Work through the TryHackMe Pre-Security path, about 2 hours a day
+Sun: finish and grab the certificate",TryHackMe,Free tier; premium optional
+38,2027-08-09,DCF valuation,Build a DCF on one stock and defend my price target,"Mon-Tue: free cash flow and WACC
+Wed-Thu: build the model in Excel for one stock
+Fri: sensitivity table
+Sat-Sun: write and defend your price target",Aswath Damodaran's free valuation lectures,Free
+39,2027-08-16,Poetry,"Write 7 poems in 7 different forms (sonnet, haiku, villanelle...)","One form a day: sonnet, haiku, villanelle, free verse, limerick, ghazal, prose poem",poets.org form glossary,Free
+40,2027-08-23,Rock climbing,Send a V2 on the CoRec wall,"Mon: CoRec wall orientation
+Tue-Sat: climb every other day, footwork drills on easy routes
+Sun: send a V2",Purdue CoRec climbing and bouldering wall,Free with CoRec; shoe rental if needed
+41,2027-08-30,Improv,Take a class or join a Purdue improv practice and do a scene,"Find a Purdue improv group on BoilerLink at fall callouts
+Mon-Thu: read the 'yes, and' basics
+Fri-Sun: show up to a practice and do a scene","BoilerLink; Truth in Comedy (Halpern, Close, Johnson)",Free
+42,2027-09-06,Public speaking,Give a 5 minute talk to a room and film it,"Mon: pick a topic (a finance one for your niche works)
+Tue-Wed: write and outline it
+Thu-Fri: rehearse on camera 3x
+Sat-Sun: give it to a room and film it","TED Talks (Treasure, Cuddy); Talk Like TED (Carmine Gallo)",Free
+43,2027-09-13,Debate,Argue both sides of one issue convincingly,"Mon: pick one issue
+Tue-Wed: build the best case for side A
+Thu-Fri: best case for side B
+Sat-Sun: argue both to a friend, they pick who won",Intelligence Squared debates on YouTube,Free
+44,2027-09-20,Teaching,Teach someone a concept and they pass a quiz on it,"Mon: pick a concept (compound interest, Roth vs traditional)
+Tue-Wed: build a 10 min lesson and a 5 question quiz
+Thu-Sun: teach 2 people, they take the quiz",Feynman technique,Free
+45,2027-09-27,Stoicism,Read Meditations and write a 1-page take on what I'll actually use,"Read Meditations about 2 books a day
+Note one line a day you'd actually use
+Sun: write your 1 page take",Meditations (Gregory Hays translation),~$12
+46,2027-10-04,ASL basics,"Fingerspell plus 100 signs, hold a basic intro conversation","Mon: fingerspelling
+Tue-Fri: 25 signs a day
+Sat-Sun: practice an intro convo with a signer or ASL club","Lifeprint.com (Bill Vicars), free ASL 1 lessons",Free
+47,2027-10-11,Ping pong,Land a spin serve my opponent can't return,"Mon-Tue: forehand and backhand loops
+Wed-Fri: backspin and sidespin serves, 50 a day
+Sat-Sun: play live, land spin serves they can't return",Union Rack and Roll in the PMU; PingSkills on YouTube,Hourly table fee
+48,2027-10-18,Pool,Run 3 balls in a row,"Mon-Tue: stance, bridge, stroke
+Wed-Thu: stop shot, follow, draw
+Fri-Sun: run-out drills until you run 3 in a row",Union Rack and Roll in the PMU; Dr. Dave Alciatore's site,Hourly table fee
+49,2027-10-25,Blackjack card counting,Count a full deck down with Hi-Lo with zero errors,"Mon: basic strategy chart
+Tue-Wed: Hi-Lo values (+1, 0, -1)
+Thu-Sun: count a deck down daily, time it, zero errors",Blackjack Apprenticeship on YouTube,Deck ~$5
+50,2027-11-01,Handstand,Hold a wall handstand for 30 seconds,"Daily: wrist prep, hollow body holds
+Mon-Wed: wall walks, chest to wall
+Thu-Sun: build to a 30 sec hold",GMB Fitness or FitnessFAQs on YouTube,Free
+51,2027-11-08,Morse code,Send and receive at 10 WPM,"Learn 5 letters a day with the Koch method
+Sat-Sun: copy at 10 WPM, then send",LCWO.net; Morse Code Ninja on YouTube,Free
+52,2027-11-15,Guitar song,"Play one full song clean, start to finish","Pick the song you want to finish on
+Mon-Thu: drill the hard sections slow
+Fri-Sat: full run-throughs
+Sun: record it clean, start to finish",JustinGuitar; Songsterr for tabs,Free
+BG,,Journaling,Journal every day for a week,Stack on any week: 5 min every night,Notebook or Day One app,Free
+BG,,Meditation,10 minutes a day for 7 days,Stack on any week: 10 min every morning,Medito (free) or Hallow for Christian meditation,Free
+BG,,Cold showers,7 days straight,Stack on any week: end every shower cold for 60 sec+,,Free
+BG,,Phone detox,Under 1 hour screen time a day for a week,Stack on any week: app limits set to hit under 1 hour a day,iPhone Screen Time or Android Digital Wellbeing,Free
+BG,,Wake at 5am,7 days in a row,"Stack on any week: lights out by 9:30, alarm across the room",,Free
+BG,,Flexibility,Touch my toes with straight legs,Stack on any week: 15 min hamstring routine daily,Tom Merrick's beginner flexibility routine on YouTube,Free

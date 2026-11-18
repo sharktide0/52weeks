@@ -1,0 +1,218 @@
+Picked,Skill,Category,Done when,Week
+Yes,Python,Tech,"Write a script that pulls real data (stock prices, CoRec counts) and texts or emails it to you daily",8
+Yes,SQL,Tech,Answer 10 real questions on a public dataset (SQLBolt done + 10 queries on a Kaggle set),23
+Yes,Build a personal website,Tech,"Site live on GitHub Pages with your resume, projects, and a custom domain",1
+,Linux command line,Tech,Clear OverTheWire Bandit through level 15 using only the terminal,
+,Touch typing,Tech,Hit 90 WPM on Monkeytype 30s test,
+Yes,Excel with no mouse,Tech,"Build a full budget model using only keyboard shortcuts, timed under 15 min",9
+,Machine learning basics,Tech,Submit a model to the Kaggle Titanic competition that scores above 0.77,
+,Statistics for real,Tech,Run a regression in Python on real data and explain every number in the output,
+Yes,Cybersecurity basics,Tech,Finish the TryHackMe Pre-Security path,37
+,Discord bot,Tech,"Bot live in a server that does something useful (price alerts, reminders)",
+,Chrome extension,Tech,Publish a working extension you actually use,
+,AI automation,Tech,Build one workflow that calls an LLM API and saves you 30 min a week,
+,Raspberry Pi server,Tech,Pi-hole or home media server running on a Pi,
+,Blender 3D,Tech,Finish the Blender Guru donut and render it,
+,Video editing,Tech,"Edit a 60 second video in DaVinci Resolve with cuts, color grade, sound mix",
+,No-code app,Tech,Ship a working app in Glide or Bubble that a friend uses,
+Yes,Electronics fundamentals,Engineering,Build a 555 timer LED blinker on a breadboard and explain Ohm's law using it,14
+,Soldering,Engineering,Solder a beginner kit (FM radio or LED badge) that works on first power-up,
+Yes,Design a PCB,Engineering,Design a simple board in KiCad and place the order with JLCPCB,15
+,Arduino,Engineering,"Build a sensor project: temp display, motion alarm, or plant water monitor",
+,CAD,Engineering,Model a real part in Fusion 360 and 3D print it at Bechtel Innovation Design Center,
+,3D printing,Engineering,"Print 3 functional parts you designed (phone stand, hook, 944 interior clip)",
+,How a car engine works,Engineering,Explain the 944's 4-stroke cycle out loud and do a spark plug change,
+,How electricity gets to your outlet,Engineering,Draw the grid from power plant to dorm outlet and explain each step,
+,Ham radio,Engineering,Pass the FCC Technician license exam ($35 exam fee),
+,How planes fly,Engineering,"Explain lift, drag, stall, and trim, then fly a pattern in a flight sim",
+Yes,Build a house (construction basics),Engineering,"Draw a framing plan for a 12x16 shed and walk someone through foundation, framing, roof, systems",30
+,Home electrical,Engineering,Wire an outlet and a switch on a practice board correctly,
+Yes,Plumbing basics,Engineering,Replace a faucet cartridge or fix a running toilet,29
+,Welding,Engineering,Take an intro MIG class and run a clean bead,
+Yes,Options trading,Money,"10 paper trades on thinkorswim, each with a written thesis and a post-mortem",11
+,Read a 10-K,Money,"One-page teardown of a company: how it makes money, risks, red flags",
+Yes,DCF valuation,Money,Build a DCF on one stock and defend your price target,38
+,Bond math,Money,Price a bond by hand and explain duration and convexity to someone,
+Yes,Taxes,Money,Do a mock 1040 by hand for a dual-income couple with kids,20
+,Financial plan,Money,"Write a full plan for a fictional dual-income couple (cash flow, insurance, retirement, college)",
+,Estate planning basics,Money,Explain will vs trust vs beneficiary designations with a real example,
+,Insurance,Money,"Explain term vs whole life, disability, umbrella, and when each makes sense",
+Yes,Social Security,Money,Figure out the optimal claiming age for a sample couple,21
+,Real estate investing,Money,"Analyze 3 West Lafayette rentals with cap rate, cash-on-cash, and a buy/pass call",
+,Macroeconomics,Money,Explain the Fed's last decision and make a call on the next one,
+,How the stock market plumbing works,Money,"Explain what happens from tapping buy to settlement (brokers, market makers, clearing)",
+,Crypto under the hood,Money,Explain a Bitcoin transaction end to end and send one on testnet,
+Yes,Negotiation,Money,"Negotiate a real bill or price down (phone, subscription, rent)",33
+Yes,Sales,Money,Sell 10 of something to strangers,34
+,Business plan,Money,One-page plan for your future planning firm with pricing and niche,
+Yes,Psychology,Mind,Explain 15 cognitive biases with a real example from your own life,10
+Yes,Body language,Mind,Read Pease's Definitive Book of Body Language and call out 10 cues in a real conversation,16
+Yes,Persuasion,Mind,Read Cialdini's Influence and use each principle once on purpose,18
+Yes,Stoicism,Mind,Read Meditations and write a 1-page take on what you'll actually use,45
+,Memory palace,Mind,Memorize a shuffled deck of cards in under 10 minutes,
+Yes,Pi to 100 digits,Mind,Recite 100 digits of pi,3
+Yes,Mental math,Mind,Multiply any two 2-digit numbers in your head in under 10 seconds,13
+,Speed reading,Mind,Double your reading speed with the same comprehension score,
+Yes,Game theory,Mind,"Explain Nash equilibrium, prisoner's dilemma, and use one in a real decision",19
+Yes,World geography,Mind,100% on the Seterra world countries quiz,24
+,Astronomy,Mind,Find 10 constellations and a planet with your naked eye,
+,Human anatomy,Mind,Name 50 bones and muscles on a blank diagram,
+,History crash course,Mind,Explain WWI to WWII causes on a whiteboard without notes,
+,Art history,Mind,Identify 25 famous paintings and their movements on sight,
+,Architecture,Mind,Identify the style of 10 buildings on campus and explain why,
+,Law basics,Mind,"Read and annotate your whole lease, explain every clause",
+,Philosophy of mind,Mind,Explain the hard problem of consciousness and 3 positions on it,
+,Spanish basics,Mind,Hold a 5 minute conversation with a native speaker,
+Yes,ASL basics,Mind,"Fingerspell plus 100 signs, hold a basic intro conversation",46
+Yes,Morse code,Mind,Send and receive at 10 WPM,51
+,Greek alphabet,Mind,Write and read it cold,
+,Learn how to pray,Faith,"Pray the full Rosary from memory, all four sets of mysteries",
+,Liturgy of the Hours,Faith,Pray Morning and Evening Prayer every day for 7 days,
+,Lectio Divina,Faith,"Do it daily for a week, keep a short journal",
+Yes,Read a whole Gospel,Faith,Read Mark in one week and summarize each chapter in one line,4
+,The Mass explained,Faith,Explain every part of the Mass and why it's there,
+,Apologetics,Faith,Explain Aquinas's Five Ways and answer the main objection to each,
+,Latin prayers,Faith,"Pray the Our Father, Hail Mary, and Glory Be in Latin",
+,Daily Examen,Faith,Do the Ignatian Examen every night for a week,
+,Swimming technique,Body,Swim 500m freestyle without stopping,
+Yes,Handstand,Body,Hold a wall handstand for 30 seconds,50
+Yes,Rock climbing,Body,Send a V2 on the CoRec wall,40
+Yes,Run a 5K,Body,Run a 5K without stopping,25
+,Boxing basics,Body,"Throw a clean 1-2-3-2 combo on a bag, take one class",
+,Brazilian jiu-jitsu,Body,Take 3 classes and hit one sweep in live rolling,
+,Jump rope,Body,20 double-unders in a row,
+Yes,Flexibility,Body,Touch your toes with straight legs,BG
+,Proper squat and deadlift,Body,Film your form and get it checked by a coach,
+,Yoga,Body,Do a full 60 minute class without modifying,
+,First aid and CPR,Body,Get Red Cross CPR/AED certified,
+,Nutrition,Body,Track a full week and explain macros and micronutrients,
+,Sleep optimization,Body,7 nights hitting 7.5+ hours on a fixed schedule,
+,Skateboard ollie,Body,Land 5 ollies in a row,
+,Ice skating,Body,"Skate forward, stop, and skate backwards",
+,Golf swing,Body,Hit 10 straight drives at a range,
+,Tennis serve,Body,Land 7/10 serves in,
+Yes,Free throws,Body,Hit 8/10,31
+,Soccer juggling,Body,20 touches without dropping it,
+,Basketball spin on finger,Party Trick,Hold it spinning for 10 seconds,
+Yes,Backflip,Body,Land one on a trampoline (then on grass if you're brave),27
+,Dancing,Body,Learn swing or salsa basics and dance a full song with a partner,
+,Ski or snowboard,Body,Get down a blue run without falling (Perfect North in winter),
+,Archery,Body,Group 5 arrows in a 6 inch circle at 15 yards,
+,Graphic design,Creative,"Full brand kit for a real or fake client: logo, type, colors, one poster",
+Yes,Interior design,Creative,"Redesign a real room with a mood board, floor plan, and before/after",28
+Yes,Drawing faces,Creative,Draw a portrait a friend recognizes,35
+,Photography,Creative,Shoot 100 frames in full manual and get 5 keepers,
+,Short film,Creative,Shoot and edit a 3 minute short,
+Yes,Write a book in a week,Creative,"20,000 word novella first draft (about 3,000 words a day)",17
+,Short story,Creative,"Write a 3,000 word story and get one honest read",
+Yes,Poetry,Creative,"Write 7 poems in 7 different forms (sonnet, haiku, villanelle...)",39
+,Screenwriting,Creative,Write a 10 page script in proper format,
+,Stand-up comedy,Creative,Do a 5 minute set at an open mic,
+Yes,Improv,Creative,Take a class or join a Purdue improv practice and do a scene,41
+,Calligraphy,Creative,Write a full quote in clean italic or brush lettering,
+,Watercolor,Creative,Paint one landscape you'd hang,
+,Pottery,Creative,Throw a bowl on a wheel (take a class),
+,Animation,Creative,Make a 10 second 2D animation,
+Yes,Figma UI design,Creative,Design 5 screens for an app idea,36
+,Woodworking,Creative,Build a cutting board or a small shelf,
+,Leatherworking,Creative,Hand-stitch a wallet,
+,Sewing,Creative,Hem a pair of pants and sew on a button,
+,Crochet,Creative,Crochet a beanie,
+,Origami,Creative,"Fold a crane, frog, and a modular star from memory",
+,Typography,Creative,"Explain serif vs sans, kerning, hierarchy, and redesign your resume header",
+Yes,Guitar song,Music,"Play one full song clean, start to finish",52
+,Piano song,Music,Play one full song (e.g. River Flows in You) both hands,
+,Music theory,Music,Explain why a progression works and write your own 4-chord song,
+,Read sheet music,Music,Sight-read a simple melody,
+,Songwriting,Music,Write and record one full song,
+,Make a beat,Music,Produce a full beat in FL Studio or GarageBand,
+,DJing,Music,Mix a 20 minute set with clean transitions,
+,Singing on pitch,Music,Pass a pitch-matching test and sing one song on key,
+,Harmonica,Music,Play a full blues riff,
+,Ukulele,Music,Play and sing one song,
+,Drums basics,Music,Play a basic rock beat to a song for 3 minutes,
+,Beatboxing,Music,Do a 30 second beat with the 3 core sounds,
+,Rap verse,Music,Write and perform a 16 bar verse,
+Yes,Public speaking,Social,Give a 5 minute talk to a room and film it,42
+,Toasts,Social,Write and deliver a 2 minute toast that gets a laugh,
+,Storytelling,Social,"Tell a 2 minute story that lands, tested on 3 people",
+Yes,Small talk,Social,Start conversations with 10 strangers,32
+,Networking,Social,Do 5 coffee chats with people in your field,
+,Remembering names,Social,Remember every name at one event,
+Yes,Debate,Social,Argue both sides of one issue convincingly,43
+,Interviewing,Social,Ace a mock interview at Purdue's Center for Career Opportunities,
+,Cold calling,Social,Make 20 cold calls,
+Yes,Teaching,Social,Teach someone a concept and they pass a quiz on it,44
+,Formal etiquette,Social,Navigate a full formal dinner place setting without looking it up,
+,Dress well,Social,"Build 5 outfits from what you own, learn 4 tie knots",
+,Host a dinner party,Social,Cook for 6 people and run the night,
+,Impressions and accents,Social,Do 3 impressions people recognize,
+Yes,Card magic,Party Trick,Perform 3 card tricks to strangers without getting caught,2
+Yes,Coin magic,Party Trick,Nail the French drop and a coin vanish,5
+,Coin roll across knuckles,Party Trick,Roll a coin across your knuckles both directions,
+,Mentalism,Party Trick,Perform one mind-reading effect on a friend,
+Yes,Card shuffling,Party Trick,"Riffle, bridge, and a faro shuffle",6
+,Cardistry,Party Trick,Do 3 cardistry flourishes smoothly,
+,Card throwing,Party Trick,Stick a card into a cardboard box or melon from 10 feet,
+Yes,Juggling,Party Trick,Juggle 3 balls for 60 seconds,12
+,Rubik's cube,Party Trick,Solve under 2 minutes,
+,Speedcubing,Party Trick,Solve under 45 seconds,
+Yes,Pen spinning,Party Trick,Do a thumbaround and a sonic smoothly,26
+,Yo-yo tricks,Party Trick,"Land 5 tricks (sleeper, walk the dog, around the world...)",
+,Kendama,Party Trick,Land 5 tricks including spike,
+,Balloon animals,Party Trick,"Make a dog, sword, and a flower",
+,Finger whistle,Party Trick,Do a loud two-finger whistle,
+,Ventriloquism,Party Trick,Say a full sentence without moving your lips,
+,Rope magic,Party Trick,Do the cut and restored rope,
+,Lockpicking (locksport),Party Trick,Pick a practice lock and a cheap padlock you own,
+,Memorize a deck,Party Trick,Recall a shuffled deck in order,
+,Bar trick bets,Party Trick,"Learn 5 bets you can't lose (coin, cup, napkin tricks)",
+,Cooking,Life Skill,"Make 5 dishes from memory, no recipe",
+,Knife skills,Life Skill,"Julienne, dice, and brunoise an onion fast",
+,Bake bread,Life Skill,Bake a loaf from scratch that rises right,
+,Coffee,Life Skill,Pull a good espresso and pour basic latte art,
+,Meal prep,Life Skill,Prep a week of meals in one session under $50,
+,Car maintenance,Life Skill,Change the oil and rotate the tires on the 944 yourself,
+,Change a tire,Life Skill,Swap a tire in under 15 minutes,
+,Bike repair,Life Skill,Fix a flat and adjust brakes,
+,Home repair,Life Skill,Patch drywall and paint it so you can't tell,
+,Sharpen a knife,Life Skill,Get a kitchen knife paper-slicing sharp on a whetstone,
+,Knots,Life Skill,"Tie 10 essential knots from memory (bowline, clove hitch, trucker's hitch...)",
+,Cut hair,Life Skill,Give a friend a clean fade,
+,Grow food,Life Skill,Grow microgreens from seed in a week,
+,Laundry and stains,Life Skill,Get out 3 real stains and iron a dress shirt crisp,
+,Drone flying,Life Skill,Pass the FAA TRUST test and fly a pattern,
+,Speed travel planning,Life Skill,"Plan a full trip under budget with flights, lodging, itinerary",
+,Shoe care,Life Skill,"Clean, condition, and shine a pair of leather shoes",
+,Compass navigation,Outdoors,Find 5 points with map and compass in a park,
+,Fire starting,Outdoors,"Start a fire with a ferro rod, no matches",
+,Wilderness survival,Outdoors,Build a shelter you could sleep in,
+,Fishing,Outdoors,Catch a fish,
+,Foraging and plant ID,Outdoors,Identify 20 plants and trees on campus,
+,Birdwatching,Outdoors,Identify 15 birds with Merlin,
+,Camping,Outdoors,Plan and do one night winter camping,
+,Weather,Outdoors,Read a forecast map and predict tomorrow better than your weather app,
+,Stargazing with a telescope,Outdoors,Find Saturn's rings and the Orion Nebula,
+Yes,Chess,Games,Hit 1000 Elo on chess.com,7
+Yes,Poker,Games,"Learn preflop ranges and pot odds, win a home game or a micro-stakes session",22
+Yes,Blackjack card counting,Games,Count a full deck down with Hi-Lo with zero errors,49
+,Go,Games,Beat a 20 kyu bot,
+,Backgammon,Games,Beat a friend in a 5 point match,
+,Bridge,Games,Play and score a full rubber,
+,Crossword,Games,Finish a NYT Monday with no help,
+,Sudoku,Games,Solve an expert puzzle under 20 min,
+Yes,Pool,Games,Run 3 balls in a row,48
+,Darts,Games,Hit 3 bullseyes in one session,
+Yes,Ping pong,Games,Land a spin serve your opponent can't return,47
+,Geometry Dash level,Games,Beat a demon level,
+,Rocket League aerials,Games,Hit 5 air dribbles in free play,
+,Speedrunning,Games,Get a time on a speedrun.com leaderboard,
+,Minimalism,Lifestyle,Cut what you own by a third and keep it that way a week,
+Yes,Journaling,Lifestyle,Journal every day for a week,BG
+Yes,Meditation,Lifestyle,10 minutes a day for 7 days,BG
+Yes,Cold showers,Lifestyle,7 days straight,BG
+Yes,Phone detox,Lifestyle,Under 1 hour screen time a day for a week,BG
+,Productivity system,Lifestyle,Set up and run GTD or time blocking for a full week,
+Yes,Wake at 5am,Lifestyle,7 days in a row,BG
+,Fashion basics,Lifestyle,"Explain fit, color, and proportion, then rebuild your closet list",
+,Skincare,Lifestyle,Build a routine and stick to it for a week,

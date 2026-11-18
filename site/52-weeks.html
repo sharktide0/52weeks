@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>52 Weeks · Lane Bruns</title>
+<meta name="description" content="One new skill every week for a year, with a hard finish line and a video for each.">
+<script>document.documentElement.classList.add("js")</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body data-page="weeks">
+
+<header class="site-head">
+  <div class="wrap head-in">
+    <a class="brand" href="index.html">Lane Bruns</a>
+    <nav class="nav" aria-label="Main">
+      <a href="index.html" data-nav="lane">Lane</a>
+      <a href="projects.html" data-nav="projects">Projects</a>
+      <a href="accomplishments.html" data-nav="accomplishments">Accomplishments</a>
+      <a href="52-weeks.html" data-nav="weeks">52 Weeks</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <header class="page-head">
+    <h1 class="reveal">52 Skills in 52 Weeks</h1>
+    <p class="lede reveal">One new skill every week for a year. The goal is to be well rounded, not an expert. Every week has a hard finish line so it can't turn into just watching YouTube, and every week ends with a video showing it done.</p>
+    <p class="meta reveal">November 23, 2026 to November 21, 2027 &middot; Updated every Sunday</p>
+  </header>
+
+  <div class="strip" id="strip"></div>
+  <div class="strip-key"><span class="k-done">Done</span><span class="k-now">This week</span><span>Still ahead</span></div>
+
+  <section class="now" id="now" aria-label="This week"></section>
+
+  <section class="sec">
+    <div class="sec-head reveal"><h2>So far</h2><p id="past-count"></p></div>
+    <div class="cards" id="past"></div>
+  </section>
+
+  <section class="sec">
+    <div class="sec-head reveal"><h2>Still ahead</h2><p id="ahead-count"></p></div>
+    <div class="months" id="ahead"></div>
+  </section>
+
+  <section class="sec">
+    <div class="sec-head reveal"><h2>Alongside every week</h2><p>Six habits that stack on top of whatever the main skill is.</p></div>
+    <ul class="habits" id="habits"></ul>
+  </section>
+</main>
+
+<dialog class="dlg" id="wk-dialog" aria-label="Week details">
+  <button class="dlg-x" id="dlg-x" type="button">Close</button>
+  <div class="dlg-body" id="dlg-body"></div>
+</dialog>
+
+<footer class="site-foot">
+  <div class="wrap foot-in">
+    <span>Lane Bruns &middot; West Lafayette, Indiana</span>
+    <span><a href="#">LinkedIn</a> &middot; <a href="#">Email</a></span>
+  </div>
+</footer>
+
+<script src="assets/site.js"></script>
+<script src="assets/weeks.js"></script>
+</body>
+</html>

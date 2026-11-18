@@ -1,0 +1,53 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8052",
+        "--directory",
+        "site"
+      ],
+      "port": 8052
+    },
+    {
+      "name": "site-v2",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8053",
+        "--directory",
+        "site-v2"
+      ],
+      "port": 8053
+    },
+    {
+      "name": "site-v3",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8054",
+        "--directory",
+        "site-v3"
+      ],
+      "port": 8054
+    },
+    {
+      "name": "site-v3-alt",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8055",
+        "--directory",
+        "site-v3"
+      ],
+      "port": 8055
+    }
+  ]
+}

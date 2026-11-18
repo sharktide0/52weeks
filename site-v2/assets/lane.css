@@ -1,0 +1,136 @@
+/* Lane's look on top of jkok-base.css. Only colors, fonts and the 52 Weeks popup live here.
+   Navy = competence, white = sincerity (Labrecque & Milne 2012). Serif headings read
+   stable/formal (Shaikh et al. 2006). Gold only on the 52 Weeks column so it stands out. */
+:root {
+  --mono: "Roboto", Arial, sans-serif;
+  --serif: "Roboto", Arial, sans-serif;
+  --ink: #000000;
+  --ink-soft: #333333;
+  --green: #0b5d3b;
+  --green-deep: #08472d;
+  --cream: #f7faf7;
+  --cream-2: #eaf2ec;
+  --sky-deep: #0b5d3b;
+  --sun: #b8913f;
+  --sun-deep: #9c7a30;
+  --sun-soft: #f6efe0;
+  --white: #ffffff;
+  --shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+  --shadow-sm: 0 4px 14px rgba(0, 0, 0, 0.08);
+  --border: 1px solid #cddcd1;
+}
+body, html { background: #e3ede6; }
+
+.glass {
+  background: rgba(247, 250, 247, 0.96);
+  border: var(--border);
+  box-shadow: var(--shadow);
+}
+.home-head-text h1 { font-family: var(--serif); font-weight: 400; letter-spacing: 0; }
+.home-about { font-family: var(--serif); font-weight: 400; }
+.home-about strong { font-weight: 700; -webkit-text-stroke: 0; }
+.home-open { color: var(--sun-deep); }
+.home-avatar { border-color: #fff; }
+
+/* 52 Weeks column: the one gold element */
+.home-panel-right { border-top: 4px solid var(--sun); }
+.home-panel-title { color: var(--green); }
+.home-panel-right .home-panel-title { color: var(--sun-deep); }
+.home-feature-link { cursor: pointer; }
+
+/* 52 Weeks page: Lane's sketch, bare. Nothing added. */
+.lightbox-overlay[hidden] { display: none; }
+.lightbox-overlay { cursor: default; align-items: flex-start; overflow-y: auto; padding: 24px 16px; }
+.wk-page {
+  position: relative; width: min(1060px, 100%); margin: 0 auto;
+  background: var(--cream); border: 1.5px solid var(--ink); color: var(--ink);
+  padding: 22px clamp(16px, 4vw, 44px) 40px; font-family: var(--mono);
+}
+.wk-back {
+  position: absolute; left: 0; top: 0;
+  background: var(--cream); color: var(--ink); border: 0; border-right: 1.5px solid var(--ink); border-bottom: 1.5px solid var(--ink);
+  padding: 10px 18px; font: 600 1.05rem var(--mono); cursor: pointer;
+}
+.wk-title {
+  margin: 8px 0 18px; text-align: right;
+  font: 700 clamp(2rem, 5vw, 3.4rem)/1 var(--serif);
+  color: var(--ink);
+}
+.wk-row { display: grid; gap: 28px; margin-top: 22px; }
+.wk-top { grid-template-columns: 2fr 1fr; }
+.wk-mid { grid-template-columns: 1fr 1fr; }
+.wk-h { margin: 0 0 10px; font: 700 clamp(1.3rem, 2.4vw, 1.75rem)/1.2 var(--serif); }
+.wk-box { border: 1.5px solid var(--ink); background: var(--cream); }
+
+.wk-video { position: relative; aspect-ratio: 16 / 9; border: 1.5px solid var(--ink); display: grid; place-items: center; }
+.wk-video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.wk-play { width: 0; height: 0; border-top: 26px solid transparent; border-bottom: 26px solid transparent; border-left: 44px solid var(--ink); margin-left: 10px; }
+.wk-goal { margin: 10px 0 0; }
+
+.wk-journal { border: 1.5px solid var(--ink); padding: 12px 14px; min-height: calc(100% - 46px); display: flex; flex-direction: column; }
+.wk-journal-head { display: flex; justify-content: space-between; gap: 10px; }
+.wk-journal-body { flex: 1; padding-top: 10px; line-height: 1.6; overflow-y: auto; max-height: 300px; }
+.wk-journal-body p { margin: 0 0 .8em; }
+.wk-sign { margin: 10px 0 0; }
+
+.wk-prev { max-height: 330px; overflow-y: auto; padding: 10px; display: flex; flex-direction: column; gap: 10px; min-height: 120px; }
+.wk-card {
+  display: grid; grid-template-columns: 1fr 42%; gap: 12px; align-items: center; text-align: left;
+  border: 1.5px solid var(--ink); background: var(--cream); color: var(--ink); padding: 10px; cursor: pointer; font: inherit;
+}
+.wk-card-meta { display: flex; justify-content: space-between; gap: 8px; }
+.wk-card-name { display: block; margin-top: 6px; font: 400 1.35rem/1.15 var(--serif); }
+.wk-thumb { position: relative; aspect-ratio: 16 / 10; border: 1.5px solid var(--ink); display: grid; place-items: center; overflow: hidden; }
+.wk-thumb img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.wk-thumb .wk-play { border-top-width: 12px; border-bottom-width: 12px; border-left-width: 20px; margin-left: 4px; position: relative; }
+
+.wk-vote { padding: 12px 14px; }
+.wk-vote-label { margin: 0 0 6px; }
+.wk-vote ul { list-style: none; margin: 0; padding: 0; }
+.wk-vote li { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 6px 0; }
+.wk-vote-btn { flex: none; border: 1.5px solid var(--ink); background: var(--cream); color: var(--ink); font: 600 .85rem var(--mono); padding: 4px 14px; cursor: pointer; }
+.wk-vote-btn.is-voted { background: var(--green); border-color: var(--green); color: #fff; }
+.wk-vote-full ul { max-height: 260px; overflow-y: auto; padding-right: 6px; }
+.wk-link { display: block; margin: 10px 0 0 auto; background: none; border: 0; padding: 0; color: var(--ink); font: 600 .9rem var(--mono); cursor: pointer; }
+.wk-vote-back { margin: 0 0 8px; border: 1.5px solid var(--ink); background: var(--cream); color: var(--ink); font: 600 .85rem var(--mono); padding: 3px 10px; cursor: pointer; }
+
+.wk-about { margin-top: 30px; }
+.wk-about-box { padding: 16px 18px; line-height: 1.65; }
+.wk-about-box p { margin: 0; }
+.wk-about-box .text-link { color: var(--sky-deep); }
+
+@media (max-width: 760px) {
+  .wk-title { text-align: left; margin-top: 44px;  }
+  .wk-top, .wk-mid { grid-template-columns: 1fr; }
+  .wk-journal { min-height: 0; }
+}
+
+/* Cards: drop shadow, lift on hover (same move as the homepage tiles) */
+.wk-video, .wk-journal, .wk-box, .wk-card {
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.35);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.wk-video:hover, .wk-journal:hover, .wk-box:hover, .wk-card:hover {
+  box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.35);
+  transform: translate(-2px, -2px);
+}
+
+/* Media player */
+.wk-player { position: relative; }
+.wk-controls { display: flex; align-items: center; gap: 12px; margin-top: 10px; border: 1.5px solid var(--ink); background: var(--cream); padding: 8px 12px; }
+.wk-ctl { background: none; border: 0; padding: 0; color: var(--ink); font: 600 .9rem var(--mono); cursor: pointer; }
+.wk-ctl-play { width: 24px; height: 24px; display: grid; place-items: center; flex: none; }
+.wk-ico-play { width: 0; height: 0; border-top: 8px solid transparent; border-bottom: 8px solid transparent; border-left: 13px solid var(--ink); margin-left: 3px; }
+.wk-ctl-play.is-playing .wk-ico-play { width: 12px; height: 14px; border: 0; margin: 0; background: linear-gradient(90deg, var(--ink) 0 4px, transparent 4px 8px, var(--ink) 8px 12px); }
+.wk-track { flex: 1; height: 8px; border: 1.5px solid var(--ink); cursor: pointer; position: relative; }
+.wk-track-fill { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: var(--green); }
+.wk-time { flex: none; font-size: .85rem; }
+.wk-player.no-video .wk-ctl, .wk-player.no-video .wk-track { cursor: default; }
+
+/* Template row in Previous Weeks (before any week is done) */
+.wk-card.is-template { cursor: default; }
+.wk-card.is-template:hover { transform: none; box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.35); }
+
+/* Finance green accents */
+.home-panel-button { background: var(--green); border-color: var(--green); color: #fff; }
+.home-panel-button:hover { background: var(--green-deep); border-color: var(--green-deep); color: #fff; }

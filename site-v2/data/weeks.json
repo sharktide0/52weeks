@@ -1,0 +1,972 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "starts": "2026-11-23",
+      "skill": "Build a personal website",
+      "category": "Tech",
+      "doneWhen": "A personal site on my own domain that showcases my resume, projects, and this challenge",
+      "plan": [
+        "Mon-Tue: HTML and CSS basics, pick a simple layout",
+        "Wed: About page and resume",
+        "Thu: Thanksgiving, light day",
+        "Fri: 52 Week Challenge page with the full list and a log you update every Sunday",
+        "Sat: deploy on GitHub Pages, connect a custom domain",
+        "Sun: add it to LinkedIn Featured and post the challenge announcement"
+      ],
+      "resources": "GitHub Pages; MDN Web Docs; Namecheap or Cloudflare for the domain",
+      "cost": "Domain ~$12/yr",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 2,
+      "starts": "2026-11-30",
+      "skill": "Card magic",
+      "category": "Party Trick",
+      "doneWhen": "Perform 3 card tricks to strangers without getting caught",
+      "plan": [
+        "Mon-Tue: learn the double lift and a key card force",
+        "Wed-Thu: drill 3 tricks (Ambitious Card, a key card reveal, a self-working spelling trick)",
+        "Fri-Sat: perform for friends on your floor",
+        "Sun: perform for 3 strangers, film one"
+      ],
+      "resources": "Chris Ramsay and 52Kards on YouTube; Royal Road to Card Magic (Hugard & Braue) for the double lift",
+      "cost": "Deck of Bicycle cards ~$5",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 3,
+      "starts": "2026-12-07",
+      "skill": "Pi to 100 digits",
+      "category": "Mind",
+      "doneWhen": "Recite 100 digits of pi",
+      "plan": [
+        "Finals week, 10 min a day",
+        "Mon-Tue: chunk digits into groups of 5, learn 30",
+        "Wed-Thu: get to 70",
+        "Fri-Sun: 100, recite cold twice"
+      ],
+      "resources": "Pi digits on any site; memory palace method for chunks",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 4,
+      "starts": "2026-12-14",
+      "skill": "Read a whole Gospel",
+      "category": "Faith",
+      "doneWhen": "Read Mark in one week and summarize each chapter in one line",
+      "plan": [
+        "Mark has 16 chapters, about 2-3 a day",
+        "Write a one-line summary per chapter",
+        "Sun: read your 16 lines top to bottom"
+      ],
+      "resources": "Bible (RSV-2CE or NABRE); Bishop Barron's Word on Fire commentary is optional",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 5,
+      "starts": "2026-12-21",
+      "skill": "Coin magic",
+      "category": "Party Trick",
+      "doneWhen": "Nail the French drop and a coin vanish",
+      "plan": [
+        "Mon-Tue: French drop and classic palm",
+        "Wed: coin vanish using the French drop",
+        "Thu: coin through table or coin from behind the ear",
+        "Fri (Christmas): perform for family",
+        "Sat-Sun: chain into a short routine with your card tricks from week 2, film it"
+      ],
+      "resources": "Chris Ramsay and Mike Hankins coin tutorials on YouTube; Modern Coin Magic (J.B. Bobo)",
+      "cost": "Free (use quarters or half dollars)",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 6,
+      "starts": "2026-12-28",
+      "skill": "Card shuffling",
+      "category": "Party Trick",
+      "doneWhen": "Riffle, bridge, and a faro shuffle",
+      "plan": [
+        "Mon-Tue: clean riffle and bridge",
+        "Wed-Fri: overhand control and table faro",
+        "Sat-Sun: in-hand faro, film all 3"
+      ],
+      "resources": "Chris Ramsay shuffle tutorials on YouTube",
+      "cost": "Deck ~$5",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 7,
+      "starts": "2027-01-04",
+      "skill": "Chess",
+      "category": "Games",
+      "doneWhen": "Hit 1000 Elo on chess.com",
+      "plan": [
+        "Daily: 20 puzzles on chess.com, 3 rapid games (10 min)",
+        "Mon-Tue: one opening as white (London) and one as black (Caro-Kann)",
+        "Wed-Sun: review every loss and find the blunder"
+      ],
+      "resources": "GothamChess beginner series; chess.com Lessons",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 8,
+      "starts": "2027-01-11",
+      "skill": "Python",
+      "category": "Tech",
+      "doneWhen": "Write a script that pulls real data (stock prices, CoRec counts) and texts or emails it to me daily",
+      "plan": [
+        "Mon-Tue: variables, loops, functions",
+        "Wed: requests library, pull data from an API",
+        "Thu-Fri: write the script",
+        "Sat-Sun: schedule it with GitHub Actions like your CoRec tracker"
+      ],
+      "resources": "Automate the Boring Stuff with Python (free online)",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 9,
+      "starts": "2027-01-18",
+      "skill": "Excel with no mouse",
+      "category": "Tech",
+      "doneWhen": "Build a full budget model using only keyboard shortcuts, timed under 15 min",
+      "plan": [
+        "Mon-Tue: 30 core shortcuts (Ctrl+arrows, Alt ribbon keys, F4, Ctrl+Shift+L)",
+        "Wed-Fri: rebuild a budget model daily, mouse unplugged",
+        "Sat-Sun: time it under 15 min"
+      ],
+      "resources": "Wall Street Prep's free Excel shortcut list; Excel via Purdue Office 365",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 10,
+      "starts": "2027-01-25",
+      "skill": "Psychology",
+      "category": "Mind",
+      "doneWhen": "Explain 15 cognitive biases with a real example from my own life",
+      "plan": [
+        "Read 1 chapter a day of Thinking, Fast and Slow",
+        "Each day log 2 biases you caught in yourself",
+        "Sun: write up all 15 with your real examples"
+      ],
+      "resources": "Thinking, Fast and Slow (Kahneman); Crash Course Psychology on YouTube",
+      "cost": "~$12 or Purdue library",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 11,
+      "starts": "2027-02-01",
+      "skill": "Options trading",
+      "category": "Money",
+      "doneWhen": "10 paper trades on thinkorswim, each with a written thesis and a post-mortem",
+      "plan": [
+        "Mon: greeks and how IV moves price",
+        "Tue-Fri: 2-3 paper trades a day (covered call, cash-secured put, vertical spread), write the thesis first",
+        "Sat-Sun: post-mortem on all 10"
+      ],
+      "resources": "thinkorswim paperMoney; The Options Playbook (free online)",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 12,
+      "starts": "2027-02-08",
+      "skill": "Juggling",
+      "category": "Party Trick",
+      "doneWhen": "Juggle 3 balls for 60 seconds",
+      "plan": [
+        "Mon-Tue: one ball, then two ball exchanges",
+        "Wed-Thu: three ball cascade, count catches",
+        "Fri-Sun: push to 60 seconds, film it"
+      ],
+      "resources": "Henry's Juggling tutorials on YouTube",
+      "cost": "Juggling balls ~$10",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 13,
+      "starts": "2027-02-15",
+      "skill": "Mental math",
+      "category": "Mind",
+      "doneWhen": "Multiply any two 2-digit numbers in my head in under 10 seconds",
+      "plan": [
+        "Mon: multiply by 11 trick, squaring numbers ending in 5",
+        "Tue-Wed: left-to-right multiplication",
+        "Thu-Sun: 50 timed problems a day, track your average"
+      ],
+      "resources": "Secrets of Mental Math (Arthur Benjamin)",
+      "cost": "~$15",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 14,
+      "starts": "2027-02-22",
+      "skill": "Electronics fundamentals",
+      "category": "Engineering",
+      "doneWhen": "Build a 555 timer LED blinker on a breadboard and explain Ohm's law using it",
+      "plan": [
+        "Mon: voltage, current, resistance, Ohm's law",
+        "Tue: series vs parallel, measure with a multimeter",
+        "Wed-Thu: LEDs, capacitors, transistors",
+        "Fri-Sun: build the 555 blinker and explain it"
+      ],
+      "resources": "Practical Electronics for Inventors; Ben Eater on YouTube",
+      "cost": "Breadboard kit + multimeter ~$30",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 15,
+      "starts": "2027-03-01",
+      "skill": "Design a PCB",
+      "category": "Engineering",
+      "doneWhen": "Design a simple board in KiCad and place the order with JLCPCB",
+      "plan": [
+        "Mon-Tue: KiCad schematic for last week's 555 circuit",
+        "Wed-Thu: layout and routing",
+        "Fri: design rule check",
+        "Sat-Sun: order from JLCPCB"
+      ],
+      "resources": "KiCad (free); Phil's Lab KiCad tutorials on YouTube",
+      "cost": "~$10-25 with shipping",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 16,
+      "starts": "2027-03-08",
+      "skill": "Body language",
+      "category": "Mind",
+      "doneWhen": "Read Pease's Definitive Book of Body Language and call out 10 cues in a real conversation",
+      "plan": [
+        "Read 2 chapters a day",
+        "Take one cue a day into class and conversations",
+        "Sun: write up 10 cues you spotted"
+      ],
+      "resources": "The Definitive Book of Body Language (Pease)",
+      "cost": "~$15 or library",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 17,
+      "starts": "2027-03-15",
+      "skill": "Write a book in a week",
+      "category": "Creative",
+      "doneWhen": "20,000 word novella first draft (about 3,000 words a day)",
+      "plan": [
+        "Spring break",
+        "Sat before: outline 15-20 scenes",
+        "Mon-Sat: 3,000+ words a day, no editing",
+        "Sun: finish and print it"
+      ],
+      "resources": "Save the Cat! Writes a Novel for the outline; Google Docs",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 18,
+      "starts": "2027-03-22",
+      "skill": "Persuasion",
+      "category": "Mind",
+      "doneWhen": "Read Cialdini's Influence and use each principle once on purpose",
+      "plan": [
+        "One principle a day: reciprocity, commitment, social proof, authority, liking, scarcity, unity",
+        "Use it once that day on purpose and log what happened"
+      ],
+      "resources": "Influence (Cialdini)",
+      "cost": "~$15",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 19,
+      "starts": "2027-03-29",
+      "skill": "Game theory",
+      "category": "Mind",
+      "doneWhen": "Explain Nash equilibrium, prisoner's dilemma, and use one in a real decision",
+      "plan": [
+        "Mon-Wed: Yale ECON 159 lectures 1-6",
+        "Thu: work prisoner's dilemma and Nash equilibrium problems",
+        "Fri-Sun: apply it to one real decision"
+      ],
+      "resources": "Yale Open Courses ECON 159 (Ben Polak), free on YouTube",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 20,
+      "starts": "2027-04-05",
+      "skill": "Taxes",
+      "category": "Money",
+      "doneWhen": "Do a mock 1040 by hand for a dual-income couple with kids",
+      "plan": [
+        "Mon: read the 1040 instructions",
+        "Tue: wages, W-2s, filing status",
+        "Wed: standard deduction vs itemizing",
+        "Thu: child tax credit and dependent care credit",
+        "Fri-Sun: full mock return by hand"
+      ],
+      "resources": "IRS Form 1040 and instructions (irs.gov)",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 21,
+      "starts": "2027-04-12",
+      "skill": "Social Security",
+      "category": "Money",
+      "doneWhen": "Figure out the optimal claiming age for a sample couple",
+      "plan": [
+        "Mon-Tue: PIA, bend points, full retirement age",
+        "Wed: spousal and survivor benefits",
+        "Thu-Fri: build a sample couple",
+        "Sat-Sun: find their best claiming ages"
+      ],
+      "resources": "ssa.gov; Open Social Security (opensocialsecurity.com)",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 22,
+      "starts": "2027-04-19",
+      "skill": "Poker",
+      "category": "Games",
+      "doneWhen": "Learn preflop ranges and pot odds, win a home game or a micro-stakes session",
+      "plan": [
+        "Mon-Tue: preflop opening ranges by position",
+        "Wed: pot odds and equity",
+        "Thu-Fri: 500+ hands of play money",
+        "Sat-Sun: home game or a micro-stakes session"
+      ],
+      "resources": "GTO Wizard free tier; Upswing's free preflop charts",
+      "cost": "Free (buy-in optional)",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 23,
+      "starts": "2027-04-26",
+      "skill": "SQL",
+      "category": "Tech",
+      "doneWhen": "Answer 10 real questions on a public dataset (SQLBolt done + 10 queries on a Kaggle set)",
+      "plan": [
+        "Mon-Tue: finish SQLBolt",
+        "Wed: joins and GROUP BY",
+        "Thu-Sun: write 10 questions about a Kaggle dataset and answer them"
+      ],
+      "resources": "SQLBolt; Mode SQL tutorial; Kaggle datasets",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 24,
+      "starts": "2027-05-03",
+      "skill": "World geography",
+      "category": "Mind",
+      "doneWhen": "100% on the Seterra world countries quiz",
+      "plan": [
+        "Finals week, 15 min a day",
+        "One continent a day on Seterra",
+        "Sun: full world quiz to 100%"
+      ],
+      "resources": "Seterra (free)",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 25,
+      "starts": "2027-05-10",
+      "skill": "Run a 5K",
+      "category": "Body",
+      "doneWhen": "Run a 5K without stopping",
+      "plan": [
+        "Mon, Wed, Fri: run-walk intervals, push the run segments longer",
+        "Tue, Thu: easy 20 min",
+        "Sun: 5K, no walking"
+      ],
+      "resources": "Nike Run Club guided runs",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 26,
+      "starts": "2027-05-17",
+      "skill": "Pen spinning",
+      "category": "Party Trick",
+      "doneWhen": "Do a thumbaround and a sonic smoothly",
+      "plan": [
+        "Mon-Tue: thumbaround, 10 min a day",
+        "Wed-Thu: charge and fingerpass",
+        "Fri-Sun: sonic, then chain thumbaround into sonic"
+      ],
+      "resources": "penspinning.com tutorials; any pen with a cap works",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 27,
+      "starts": "2027-05-24",
+      "skill": "Backflip",
+      "category": "Body",
+      "doneWhen": "Land one on a trampoline (then on grass if I'm brave)",
+      "plan": [
+        "Mon-Wed: back rolls, back handspring drills at a trampoline park",
+        "Thu-Fri: spotted backflips on trampoline",
+        "Sat-Sun: land it clean"
+      ],
+      "resources": "Local trampoline park; tutorials on YouTube",
+      "cost": "~$20-30 per visit",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 28,
+      "starts": "2027-05-31",
+      "skill": "Interior design",
+      "category": "Creative",
+      "doneWhen": "Redesign a real room with a mood board, floor plan, and before/after",
+      "plan": [
+        "Mon: measure the room, draw the floor plan",
+        "Tue: traffic flow and furniture layout",
+        "Wed: lighting layers and color",
+        "Thu-Fri: mood board",
+        "Sat-Sun: before/after"
+      ],
+      "resources": "Floorplanner (free); Canva for the mood board",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 29,
+      "starts": "2027-06-07",
+      "skill": "Plumbing basics",
+      "category": "Engineering",
+      "doneWhen": "Replace a faucet cartridge or fix a running toilet",
+      "plan": [
+        "Mon-Tue: how supply lines, traps, and venting work",
+        "Wed: diagnose a running toilet",
+        "Thu-Fri: replace a flapper or a faucet cartridge",
+        "Sat-Sun: fix one more real thing at home"
+      ],
+      "resources": "This Old House on YouTube; Black & Decker Complete Guide to Plumbing",
+      "cost": "Parts ~$15-30",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 30,
+      "starts": "2027-06-14",
+      "skill": "Build a house (construction basics)",
+      "category": "Engineering",
+      "doneWhen": "Draw a framing plan for a 12x16 shed and walk someone through foundation, framing, roof, systems",
+      "plan": [
+        "Mon: foundations",
+        "Tue: framing (studs, headers, joists)",
+        "Wed: roof",
+        "Thu: electrical, plumbing, HVAC rough-in",
+        "Fri-Sat: draw the 12x16 shed framing plan",
+        "Sun: walk someone through it"
+      ],
+      "resources": "Essential Craftsman on YouTube; Building Construction Illustrated (Ching)",
+      "cost": "Free with library",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 31,
+      "starts": "2027-06-21",
+      "skill": "Free throws",
+      "category": "Body",
+      "doneWhen": "Hit 8/10",
+      "plan": [
+        "100 free throws a day",
+        "Film form on Mon and Thu, fix elbow and follow-through",
+        "Sun: 8/10 test"
+      ],
+      "resources": "Any outdoor court",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 32,
+      "starts": "2027-06-28",
+      "skill": "Small talk",
+      "category": "Social",
+      "doneWhen": "Start conversations with 10 strangers",
+      "plan": [
+        "Start 10 conversations with strangers over the week (summer job, gym, coffee shop)",
+        "Log what opener worked"
+      ],
+      "resources": "How to Talk to Anyone (Leil Lowndes)",
+      "cost": "~$12",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 33,
+      "starts": "2027-07-05",
+      "skill": "Negotiation",
+      "category": "Money",
+      "doneWhen": "Negotiate a real bill or price down (phone, subscription, rent)",
+      "plan": [
+        "Mon-Tue: read Never Split the Difference",
+        "Wed: pick a bill (phone, internet, insurance)",
+        "Thu-Fri: call and negotiate",
+        "Sat-Sun: try one more in person"
+      ],
+      "resources": "Never Split the Difference (Chris Voss)",
+      "cost": "~$15",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 34,
+      "starts": "2027-07-12",
+      "skill": "Sales",
+      "category": "Money",
+      "doneWhen": "Sell 10 of something to strangers",
+      "plan": [
+        "Mon: pick something to sell (flip items from Marketplace or garage sales)",
+        "Tue-Sat: pitch and sell 10",
+        "Sun: what worked and what didn't"
+      ],
+      "resources": "Facebook Marketplace",
+      "cost": "Inventory ~$20-50",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 35,
+      "starts": "2027-07-19",
+      "skill": "Drawing faces",
+      "category": "Creative",
+      "doneWhen": "Draw a portrait a friend recognizes",
+      "plan": [
+        "Mon-Tue: Loomis head construction",
+        "Wed-Thu: eyes, nose, mouth",
+        "Fri-Sat: draw from photos",
+        "Sun: draw a friend"
+      ],
+      "resources": "Proko on YouTube; Drawing on the Right Side of the Brain",
+      "cost": "Sketchbook and pencils ~$15",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 36,
+      "starts": "2027-07-26",
+      "skill": "Figma UI design",
+      "category": "Creative",
+      "doneWhen": "Design 5 screens for an app idea",
+      "plan": [
+        "Mon: frames, auto layout, components",
+        "Tue: pick an app idea",
+        "Wed-Sat: one screen a day",
+        "Sun: clickable prototype"
+      ],
+      "resources": "Figma (free); Figma's YouTube tutorials",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 37,
+      "starts": "2027-08-02",
+      "skill": "Cybersecurity basics",
+      "category": "Tech",
+      "doneWhen": "Finish the TryHackMe Pre-Security path",
+      "plan": [
+        "Work through the TryHackMe Pre-Security path, about 2 hours a day",
+        "Sun: finish and grab the certificate"
+      ],
+      "resources": "TryHackMe",
+      "cost": "Free tier; premium optional",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 38,
+      "starts": "2027-08-09",
+      "skill": "DCF valuation",
+      "category": "Money",
+      "doneWhen": "Build a DCF on one stock and defend my price target",
+      "plan": [
+        "Mon-Tue: free cash flow and WACC",
+        "Wed-Thu: build the model in Excel for one stock",
+        "Fri: sensitivity table",
+        "Sat-Sun: write and defend your price target"
+      ],
+      "resources": "Aswath Damodaran's free valuation lectures",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 39,
+      "starts": "2027-08-16",
+      "skill": "Poetry",
+      "category": "Creative",
+      "doneWhen": "Write 7 poems in 7 different forms (sonnet, haiku, villanelle...)",
+      "plan": [
+        "One form a day: sonnet, haiku, villanelle, free verse, limerick, ghazal, prose poem"
+      ],
+      "resources": "poets.org form glossary",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 40,
+      "starts": "2027-08-23",
+      "skill": "Rock climbing",
+      "category": "Body",
+      "doneWhen": "Send a V2 on the CoRec wall",
+      "plan": [
+        "Mon: CoRec wall orientation",
+        "Tue-Sat: climb every other day, footwork drills on easy routes",
+        "Sun: send a V2"
+      ],
+      "resources": "Purdue CoRec climbing and bouldering wall",
+      "cost": "Free with CoRec; shoe rental if needed",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 41,
+      "starts": "2027-08-30",
+      "skill": "Improv",
+      "category": "Creative",
+      "doneWhen": "Take a class or join a Purdue improv practice and do a scene",
+      "plan": [
+        "Find a Purdue improv group on BoilerLink at fall callouts",
+        "Mon-Thu: read the 'yes, and' basics",
+        "Fri-Sun: show up to a practice and do a scene"
+      ],
+      "resources": "BoilerLink; Truth in Comedy (Halpern, Close, Johnson)",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 42,
+      "starts": "2027-09-06",
+      "skill": "Public speaking",
+      "category": "Social",
+      "doneWhen": "Give a 5 minute talk to a room and film it",
+      "plan": [
+        "Mon: pick a topic (a finance one for your niche works)",
+        "Tue-Wed: write and outline it",
+        "Thu-Fri: rehearse on camera 3x",
+        "Sat-Sun: give it to a room and film it"
+      ],
+      "resources": "TED Talks (Treasure, Cuddy); Talk Like TED (Carmine Gallo)",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 43,
+      "starts": "2027-09-13",
+      "skill": "Debate",
+      "category": "Social",
+      "doneWhen": "Argue both sides of one issue convincingly",
+      "plan": [
+        "Mon: pick one issue",
+        "Tue-Wed: build the best case for side A",
+        "Thu-Fri: best case for side B",
+        "Sat-Sun: argue both to a friend, they pick who won"
+      ],
+      "resources": "Intelligence Squared debates on YouTube",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 44,
+      "starts": "2027-09-20",
+      "skill": "Teaching",
+      "category": "Social",
+      "doneWhen": "Teach someone a concept and they pass a quiz on it",
+      "plan": [
+        "Mon: pick a concept (compound interest, Roth vs traditional)",
+        "Tue-Wed: build a 10 min lesson and a 5 question quiz",
+        "Thu-Sun: teach 2 people, they take the quiz"
+      ],
+      "resources": "Feynman technique",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 45,
+      "starts": "2027-09-27",
+      "skill": "Stoicism",
+      "category": "Mind",
+      "doneWhen": "Read Meditations and write a 1-page take on what I'll actually use",
+      "plan": [
+        "Read Meditations about 2 books a day",
+        "Note one line a day you'd actually use",
+        "Sun: write your 1 page take"
+      ],
+      "resources": "Meditations (Gregory Hays translation)",
+      "cost": "~$12",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 46,
+      "starts": "2027-10-04",
+      "skill": "ASL basics",
+      "category": "Mind",
+      "doneWhen": "Fingerspell plus 100 signs, hold a basic intro conversation",
+      "plan": [
+        "Mon: fingerspelling",
+        "Tue-Fri: 25 signs a day",
+        "Sat-Sun: practice an intro convo with a signer or ASL club"
+      ],
+      "resources": "Lifeprint.com (Bill Vicars), free ASL 1 lessons",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 47,
+      "starts": "2027-10-11",
+      "skill": "Ping pong",
+      "category": "Games",
+      "doneWhen": "Land a spin serve my opponent can't return",
+      "plan": [
+        "Mon-Tue: forehand and backhand loops",
+        "Wed-Fri: backspin and sidespin serves, 50 a day",
+        "Sat-Sun: play live, land spin serves they can't return"
+      ],
+      "resources": "Union Rack and Roll in the PMU; PingSkills on YouTube",
+      "cost": "Hourly table fee",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 48,
+      "starts": "2027-10-18",
+      "skill": "Pool",
+      "category": "Games",
+      "doneWhen": "Run 3 balls in a row",
+      "plan": [
+        "Mon-Tue: stance, bridge, stroke",
+        "Wed-Thu: stop shot, follow, draw",
+        "Fri-Sun: run-out drills until you run 3 in a row"
+      ],
+      "resources": "Union Rack and Roll in the PMU; Dr. Dave Alciatore's site",
+      "cost": "Hourly table fee",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 49,
+      "starts": "2027-10-25",
+      "skill": "Blackjack card counting",
+      "category": "Games",
+      "doneWhen": "Count a full deck down with Hi-Lo with zero errors",
+      "plan": [
+        "Mon: basic strategy chart",
+        "Tue-Wed: Hi-Lo values (+1, 0, -1)",
+        "Thu-Sun: count a deck down daily, time it, zero errors"
+      ],
+      "resources": "Blackjack Apprenticeship on YouTube",
+      "cost": "Deck ~$5",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 50,
+      "starts": "2027-11-01",
+      "skill": "Handstand",
+      "category": "Body",
+      "doneWhen": "Hold a wall handstand for 30 seconds",
+      "plan": [
+        "Daily: wrist prep, hollow body holds",
+        "Mon-Wed: wall walks, chest to wall",
+        "Thu-Sun: build to a 30 sec hold"
+      ],
+      "resources": "GMB Fitness or FitnessFAQs on YouTube",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 51,
+      "starts": "2027-11-08",
+      "skill": "Morse code",
+      "category": "Mind",
+      "doneWhen": "Send and receive at 10 WPM",
+      "plan": [
+        "Learn 5 letters a day with the Koch method",
+        "Sat-Sun: copy at 10 WPM, then send"
+      ],
+      "resources": "LCWO.net; Morse Code Ninja on YouTube",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    },
+    {
+      "week": 52,
+      "starts": "2027-11-15",
+      "skill": "Guitar song",
+      "category": "Music",
+      "doneWhen": "Play one full song clean, start to finish",
+      "plan": [
+        "Pick the song you want to finish on",
+        "Mon-Thu: drill the hard sections slow",
+        "Fri-Sat: full run-throughs",
+        "Sun: record it clean, start to finish"
+      ],
+      "resources": "JustinGuitar; Songsterr for tabs",
+      "cost": "Free",
+      "videoId": "",
+      "journal": "",
+      "completedOn": ""
+    }
+  ],
+  "habits": [
+    {
+      "skill": "Journaling",
+      "category": "Lifestyle",
+      "doneWhen": "Journal every day for a week",
+      "plan": [
+        "Stack on any week: 5 min every night"
+      ],
+      "resources": "Notebook or Day One app",
+      "cost": "Free"
+    },
+    {
+      "skill": "Meditation",
+      "category": "Lifestyle",
+      "doneWhen": "10 minutes a day for 7 days",
+      "plan": [
+        "Stack on any week: 10 min every morning"
+      ],
+      "resources": "Medito (free) or Hallow for Christian meditation",
+      "cost": "Free"
+    },
+    {
+      "skill": "Cold showers",
+      "category": "Lifestyle",
+      "doneWhen": "7 days straight",
+      "plan": [
+        "Stack on any week: end every shower cold for 60 sec+"
+      ],
+      "resources": "",
+      "cost": "Free"
+    },
+    {
+      "skill": "Phone detox",
+      "category": "Lifestyle",
+      "doneWhen": "Under 1 hour screen time a day for a week",
+      "plan": [
+        "Stack on any week: app limits set to hit under 1 hour a day"
+      ],
+      "resources": "iPhone Screen Time or Android Digital Wellbeing",
+      "cost": "Free"
+    },
+    {
+      "skill": "Wake at 5am",
+      "category": "Lifestyle",
+      "doneWhen": "7 days in a row",
+      "plan": [
+        "Stack on any week: lights out by 9:30, alarm across the room"
+      ],
+      "resources": "",
+      "cost": "Free"
+    },
+    {
+      "skill": "Flexibility",
+      "category": "Body",
+      "doneWhen": "Touch my toes with straight legs",
+      "plan": [
+        "Stack on any week: 15 min hamstring routine daily"
+      ],
+      "resources": "Tom Merrick's beginner flexibility routine on YouTube",
+      "cost": "Free"
+    }
+  ]
+}

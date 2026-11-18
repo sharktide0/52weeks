@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.claude/settings.local.json
+# other people's sites kept for inspiration, and installed agent skills: not mine to publish
+reference/
+.agents/
+.claude/skills/

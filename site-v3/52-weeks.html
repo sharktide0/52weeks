@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>52 Skills in 52 Weeks - Lane Bruns</title>
+<meta name="description" content="Lane Bruns is learning one new skill every week for 52 weeks, starting November 15, 2026.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header class="nav">
+  <a class="roll home" id="weeks-back" href="index.html#skills"><span data-t="&larr; Back">&larr; Back</span></a>
+  <nav>
+    <a class="roll" href="index.html#experience"><span data-t="Experience">Experience</span></a>
+    <a class="roll" href="index.html#projects"><span data-t="Projects">Projects</span></a>
+    <a class="roll" href="52-weeks.html" aria-current="page"><span data-t="52 Skills in 52 Weeks">52 Skills in 52 Weeks</span></a>
+    <a class="roll" href="resume.pdf" target="_blank" rel="noopener"><span data-t="Resume">Resume</span></a>
+  </nav>
+</header>
+
+<main class="wk-page" id="weeks-page">
+    <div class="slice wk-slice"><h2><span class="mask"><span>52 Skills in 52 Weeks</span></span></h2></div>
+
+    <div class="wk-row wk-top">
+      <section class="it" style="--i:0">
+        <h3 class="wk-h" id="wk-head"></h3>
+        <div class="wk-player" id="wk-player">
+          <div class="wk-video" id="wk-video"></div>
+          <div class="wk-controls">
+            <button type="button" class="wk-ctl wk-ctl-play" id="wk-ctl-play" aria-label="Play"><span class="wk-ico-play"></span></button>
+            <div class="wk-track" id="wk-track"><div class="wk-track-fill" id="wk-track-fill"></div></div>
+            <span class="wk-time" id="wk-time">0:00 / 0:00</span>
+            <button type="button" class="wk-ctl wk-ctl-full" id="wk-ctl-full">Full</button>
+          </div>
+        </div>
+        <p class="wk-goal" id="wk-goal"></p>
+      </section>
+      <section class="it" style="--i:1">
+        <h3 class="wk-h">Journal</h3>
+        <div class="wk-journal" id="wk-journal" data-lenis-prevent></div>
+      </section>
+    </div>
+
+    <div class="wk-row wk-mid">
+      <section class="it" style="--i:2">
+        <h3 class="wk-h">Previous Weeks</h3>
+        <div class="wk-prev" id="wk-prev" data-lenis-prevent></div>
+      </section>
+      <section class="it" style="--i:3">
+        <h3 class="wk-h">What should I do next week?</h3>
+        <div class="wk-vote" id="wk-vote" data-lenis-prevent></div>
+      </section>
+    </div>
+
+    <section class="wk-row wk-about it" style="--i:4">
+      <div>
+        <h3 class="wk-h">What is the 52 Skills in 52 Weeks challenge?</h3>
+        <p>I started on November 15, 2026 and I'm learning <a href="#" class="text-link" data-full-list>52 skills</a> in 52 weeks. The goal is to be well rounded, not an expert. Every week has a hard finish line so it can't turn into just watching YouTube, and every week ends with a video showing it done.</p>
+      </div>
+    </section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js"></script>
+<script src="assets/main.js"></script>
+</body>
+</html>
